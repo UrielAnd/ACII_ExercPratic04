@@ -38,9 +38,10 @@ https://github.com/UrielAnd/ACII_ExercPratic04/blob/main/PdfProjeto.pdf
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
 </div>
-### Ferramentas Ultilizadas
 
+### Ferramentas Ultilizadas
 <div>
 <img src="https://img.icons8.com/nolan/48/arduino.png"/>
 </div>
+
 # Desenvolvido por Uriel Andrade-26/04/2022
