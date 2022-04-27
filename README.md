@@ -27,11 +27,11 @@ possíveis.
 
 <div>
     <img src="TESTE_2.png">
-    <p>Teste 1 da ULA Arduino</p>
+    <p center>Teste 1 da ULA Arduino</p>
 </div>    
 
 ## PDF do projeto
-https://github.com/UrielAnd/ExecPrat04/blob/main/PdfProjeto.pdf
+https://github.com/UrielAnd/ACII_ExercPratic04/blob/main/PdfProjeto.pdf
 
 
 # Desenvolvido por Uriel Andrade-26/04/2022
