@@ -22,16 +22,25 @@ possíveis.
 ## Testes
 <div>
     <img src="TESTE_1.png">
-    <p>Teste 1 da ULA Arduino</p>
+    
 </div>    
 
 <div>
     <img src="TESTE_2.png">
-    <p center>Teste 1 da ULA Arduino</p>
+    
 </div>    
 
 ## PDF do projeto
 https://github.com/UrielAnd/ACII_ExercPratic04/blob/main/PdfProjeto.pdf
 
+### Linguagens Ultilizadas
+<div>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+</div>
+### Ferramentas Ultilizadas
 
+<div>
+<img src="https://img.icons8.com/nolan/48/arduino.png"/>
+</div>
 # Desenvolvido por Uriel Andrade-26/04/2022
